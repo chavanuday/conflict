@@ -1,4 +1,8 @@
-Hi, My name is Uday
+Hi, My name is Jadooo
 This file is created by UdayChavan
 
+<<<<<<< HEAD
 This file is created by Basil
+=======
+THis modified by branch2
+>>>>>>> branch2
